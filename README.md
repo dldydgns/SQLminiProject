@@ -1,18 +1,15 @@
 # SQLminiProject
-## 목차
-[1. 팀원 소개](#👨‍💻-Team)
-[2. 개발 기간](#📊-학습목적)
-[3. 문제 해결](#🔧-트러블-슈팅)
 
 ## 👨‍💻Team
 |<img src="https://avatars.githubusercontent.com/u/56614731?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/117507439?v=4" width="100" height="100"/>|<img src="https://github.com/user-attachments/assets/c2190400-6734-41d4-bdd9-377c569489a8" width="100" height="100"/>|
 |:-:|:-:|:-:|
 |[이용훈](https://github.com/dldydgns)|[김문석](https://github.com/moonstone0514)|[황지환](https://github.com/jihwan77)|<br/>[@](https://github.com/ddd)|
+
 <br></br>
 
 
 ## 📊 학습목적
-Oracle과 mysql의 문법 비교를 위한 프로젝트 입니다.
+Oracle과 mysql의 문법 비교를 위한 프로젝트 입니다.<br>
 예제를 만들고 서로 풀어보며 학습하였습니다.
 <br>
 <br></br>
@@ -133,7 +130,7 @@ ename, empno
 FROM emp 
 WHERE hiredate = TO_DATE('81/09/28','YY/MM/DD');
 ```
-위 쿼리문이 mysql에서는 작동하지만, Oracle에서는 작동하지 않는다
-	- Oracle에서는 20(현재세기)+81로 년도를 해석했다. 50의 값을 기준으로 유연하게 처리하려면 RR을 사용하자.
-   	- mysql에서는 자동으로 70년도 기준으로 19 또는 20 처리를 한다.
+위 쿼리문이 mysql에서는 작동하지만, Oracle에서는 작동하지 않는다<br>
+	- Oracle에서는 20(현재세기)+81로 년도를 해석했다. 50의 값을 기준으로 유연하게 처리하려면 RR을 사용하자.<br>
+	- mysql에서는 자동으로 70년도 기준으로 19 또는 20 처리를 한다.<br>
 
