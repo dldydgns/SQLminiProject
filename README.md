@@ -1,5 +1,5 @@
 ## 👨‍💻Team
-|<img src="https://avatars.githubusercontent.com/u/56614731?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/117507439?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/87272634?v=4" width="100" height="100"/>|
+|<img src="https://avatars.githubusercontent.com/u/56614731?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/117507439?v=4" width="100" height="100"/>|<img src="https://github.com/user-attachments/assets/c2190400-6734-41d4-bdd9-377c569489a8" width="100" height="100"/>|
 |:-:|:-:|:-:|
 |[이용훈](https://github.com/dldydgns)|[김문석](https://github.com/moonstone0514)|[황지환](https://github.com/jihwan77)|<br/>[@](https://github.com/ddd)|
 
